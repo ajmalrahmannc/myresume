@@ -9,3 +9,13 @@
     height: 30px;
     width: 140px;
 }
+.coffee{
+    height: 55px;
+    margin-top: 20px;
+    border-radius: 50px;
+    cursor: pointer;
+}
+.coffee:hover{
+    opacity: 80%;
+    transition: 0.3s;
+}
